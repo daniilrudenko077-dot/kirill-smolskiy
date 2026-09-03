@@ -1,0 +1,1 @@
+export default function Page(){return <main className='c'><h1>Minimal Landing</h1><p>Modern Next.js 16 landing page.</p><a className='b' href='#'>Get Started</a><footer>©2026</footer></main>}
